@@ -1,0 +1,1 @@
+O: {:.2f} \n RETANGULO: {:.2f} \n ".format(triangle, circle, trapezium, square, rectangle))
